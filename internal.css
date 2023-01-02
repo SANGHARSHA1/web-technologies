@@ -1,0 +1,15 @@
+img {
+    background-size: cover;
+    background-position: center;
+    width: 1028px;
+    height:500px;
+  }
+  
+  p {
+    font-family: 'Your Favorite Font', sans-serif;
+    font-size: 20px;
+    color:orange;
+    background-color:rgb(50, 48, 48);
+    font-weight: bold;
+  }
+  
